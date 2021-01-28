@@ -11,3 +11,5 @@ The project was developed by 4 students :
 * [Maruska Chevalier](https://www.linkedin.com/in/maruska-chevalier-223202186/)
 * [Mohamed Gassem](https://www.linkedin.com/in/mohamed-gassem/)
 * [Bastien Doignies](https://www.linkedin.com/in/bastien-doignies/)
+
+[ai-for-tetris.rar](/ai-for-tetris/ai-for-tetris.rar)
