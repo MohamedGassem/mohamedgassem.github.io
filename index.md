@@ -2,29 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Computer vision
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Auto-encoder/anomaly detection](/Anomaly_detection_on_Simpsons_and_Flowers_GASSEM.ipynb)
+<img src="images/autoencoder.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Emotion recognition](/pdf/sample_presentation.pdf)
+<img src="images/emotion.jpg?raw=true"/>
 
----
 
-### Category Name 2
+### AI applied to video games
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+[AI for Tetris](/sample_page)
+<img src="images/tetris.jpg?raw=true"/>
 ---
 
 
