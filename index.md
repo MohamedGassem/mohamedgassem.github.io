@@ -4,7 +4,7 @@
 
 ### Computer vision
 
-[Auto-encoder/anomaly detection](/sample_page)
+[Auto-encoder/anomaly detection](/Anomaly_detection_on_Simpsons_and_Flowers_GASSEM.ipynb)
 <img src="images/autoencoder.png?raw=true"/>
 
 ---
