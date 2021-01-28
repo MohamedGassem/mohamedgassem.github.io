@@ -14,4 +14,4 @@ The project was developed by 4 students :
 
 [ai-for-tetris.rar](/ai-for-tetris/ai-for-tetris.rar)
 
-![](images/exemple.gif)
+<img src="images/exemple.gif?raw=true"/>
