@@ -14,7 +14,7 @@
 
 ### AI applied to video games
 
-[AI for Tetris](/sample_page)
+[AI for Tetris](/ai-for-tetris/)
 <img src="images/tetris.jpg?raw=true"/>
 ---
 
