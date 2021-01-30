@@ -8,7 +8,7 @@
 <img src="images/autoencoder.png?raw=true"/>
 
 ---
-[Emotion recognition](/pdf/sample_presentation.pdf)
+[Emotion recognition]()
 <img src="images/emotion.jpg?raw=true"/>
 
 
