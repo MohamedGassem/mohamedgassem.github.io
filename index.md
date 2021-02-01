@@ -8,7 +8,7 @@
 <img src="images/autoencoder.png?raw=true"/>
 
 ---
-[Emotion recognition](/Emotion_recognition_on_RAVDESS_dataset.ipynb)
+[Emotion recognition](https://github.com/MohamedGassem/emotion_recognition/blob/main/Emotion_recognition_on_RAVDESS_dataset.ipynb)
 <img src="images/emotion.jpg?raw=true"/>
 
 
