@@ -4,7 +4,7 @@
 
 ### Computer vision
 
-[Auto-encoder/anomaly detection](https://nbviewer.jupyter.org/github/MohamedGassem/Anomaly_detection/blob/main/Anomaly_detection_on_Simpsons_and_Flowers.ipynb)
+[Auto-encoder/anomaly detection](https://github.com/MohamedGassem/Anomaly_detection/blob/main/Anomaly_detection_on_Simpsons_and_Flowers.ipynb)
 <img src="images/autoencoder.png?raw=true"/>
 
 ---
